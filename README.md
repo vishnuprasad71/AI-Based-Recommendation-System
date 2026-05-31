@@ -1,4 +1,5 @@
 # How to Build an AI-Powered Recommendation System
+**#AI-POWERED RECOMMENDATION SYSTEM**
 
 Welcome to the **How-to-Build-an-AI-powered-Recommendation-System** repository! 🎉 
 
